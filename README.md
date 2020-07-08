@@ -1,21 +1,12 @@
 # show-my-resolution
 
-Super simple Vue.js app to responsively show the current resolution of your browser.
+Super simple Vue.js app to responsively show the current resolution of your browser window.
 
-## Project setup
+![screenshot](screenshot.png)
 
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
+## Using
 
-```
-npm run serve
-```
+Just download the release (https://github.com/davekrejci/show-my-resolution/releases/tag/1.0) and open index.html in your browser. Voila!
 
-### Compiles and minifies for production
 
-```
-npm run build
-```
